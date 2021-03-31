@@ -1,5 +1,5 @@
 # Vuex
-
+//
 [![npm](https://img.shields.io/npm/v/vuex.svg)](https://npmjs.com/package/vuex)
 [![ci status](https://circleci.com/gh/vuejs/vuex/tree/dev.png?style=shield)](https://circleci.com/gh/vuejs/vuex)
 
